@@ -1,5 +1,6 @@
 {
   "name": "react-geo-sample",
+  "homepage": "https://gabema.github.io/react-geo-sample",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
